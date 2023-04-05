@@ -4,8 +4,7 @@
   "version": "1.0",
   "description": "Removes the blur-container element and enables right-click and copy functionality on Schoolmouv.",
   "permissions": [
-    "activeTab",
-    "https://www.schoolmouv.fr/*"
+    "activeTab"
   ],
   "content_scripts": [
     {
