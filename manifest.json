@@ -1,6 +1,6 @@
 {
-  "manifest_version": 2,
-  "name": "Unblur Schoolmouv",
+  "manifest_version": 3,
+  "name": "Schoolmouv Bypasser",
   "version": "1.0",
   "description": "Removes the blur-container element and enables right-click and copy functionality on Schoolmouv.",
   "permissions": [
