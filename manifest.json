@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Unblur Schoolmouv",
+  "version": "1.0",
+  "description": "Removes the blur-container element and enables right-click and copy functionality on Schoolmouv.",
+  "permissions": [
+    "activeTab",
+    "https://www.schoolmouv.fr/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.schoolmouv.fr/*"
+      ],
+      "js": ["content_script.js"]
+    }
+  ]
+}
