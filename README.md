@@ -1,4 +1,4 @@
-# Schoolmouv Bypasser 🤝
+# Schoolmouv Bypasser
   
 Une simple extension chrome que vous pouvez utiliser pour contourner facilement les paywalls/protection et copier-coller bloqué de schoolmouv.fr
   
